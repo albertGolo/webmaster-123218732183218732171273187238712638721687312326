@@ -9,9 +9,9 @@ return [
     'paypal_sandbox' => true,
 
     'route_domains' => [
-        'admin_site' => 'west.unit.3d.tc',
+        'admin_site' => 'https://west.unit.3d.tc',
         'main_site' => 'unit.3d.tc',
-        'jobs_site' => 'jobs.unit.3d.tc'
+        'jobs_site' => 'https://jobs.unit.3d.tc'
     ],
 
     'storage_url' => 'cdn.unit.3d.tc',
