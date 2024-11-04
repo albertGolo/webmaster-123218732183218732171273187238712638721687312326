@@ -2,9 +2,9 @@
 return [
     // Renderer
     'DB_HOST'         => '127.0.0.1',
-    'DB_NAME'         => 'root',
-    'DB_USER'         => 'ee',
-    'DB_PASS'         => '',
+    'DB_NAME'         => 'ysnsexrqqr',
+    'DB_USER'         => 'ysnsexrqqr',
+    'DB_PASS'         => 'MWdEj2YmfG',
     'SERIOUS_KEY'     => 'key',
     'ALLOWED_TYPES'   => ['item', 'user', 'preview'],
     'FOCUS_ITEMS'     => false,
@@ -15,9 +15,9 @@ return [
 
     // Directories
     'DIRECTORIES' => [
-        'ROOT'       => '/var/www/vextoria/storage/app/public',
-        'UPLOADS'    => '/var/www/vextoria/storage/app/public/uploads',
-        'THUMBNAILS' => '/var/www/vextoria/public/storage/thumbnails'
+        'ROOT'       => '/var/www/ysnsexrqqr/storage/app/public',
+        'UPLOADS'    => '/var/www/ysnsexrqqr/storage/app/public/uploads',
+        'THUMBNAILS' => '/var/www/ysnsexrqqr/public/storage/thumbnails'
     ],
 
     // Colors
@@ -25,8 +25,8 @@ return [
 
     // Avatar
     'AVATARS' => [
-        'DEFAULT' => '/var/www/vextoria/renderer/blend/vextoria_main_avi.blend',
-        'GADGET'  => '/var/www/vextoria/renderer/blend/vextoria_main_toolii.blend',
+        'DEFAULT' => '/var/www/ysnsexrqqr/renderer/blend/vextoria_main_avi.blend',
+        'GADGET'  => '/var/www/ysnsexrqqr/renderer/blend/vextoria_main_toolii.blend',
     ],
 
     // Headshot Camera
