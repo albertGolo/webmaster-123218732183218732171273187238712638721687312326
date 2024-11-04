@@ -9,12 +9,12 @@ return [
     'paypal_sandbox' => true,
 
     'route_domains' => [
-        'admin_site' => 'west.phplaravel-1359144-5001406.cloudwaysapps.com',
-        'main_site' => 'phplaravel-1359144-5001406.cloudwaysapps.com',
-        'jobs_site' => 'jobs.phplaravel-1359144-5001406.cloudwaysapps.com'
+        'admin_site' => 'west.unit.3d.tc',
+        'main_site' => 'unit.3d.tc',
+        'jobs_site' => 'jobs.unit.3d.tc'
     ],
 
-    'storage_url' => 'cdn.phplaravel-1359144-5001406.cloudwaysapps.com',
+    'storage_url' => 'cdn.unit.3d.tc',
     'official_thumbnail' => '/img/main.png',
 
     'updates_forum_topic_id' => 1,
