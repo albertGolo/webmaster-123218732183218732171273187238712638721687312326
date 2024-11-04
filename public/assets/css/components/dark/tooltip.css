@@ -1,0 +1,14 @@
+span[data-tooltip] {
+    cursor: default;
+}
+
+.tippy-box {
+    padding: 1.5px 4px;
+    text-align: center;
+    background: #424242;
+    max-width: 180px !important;
+    text-shadow: 0 1px 2px rgb(0, 0, 0, 0.2);
+    box-shadow: 0 1px 3px rgb(0, 0, 0, 0.2);
+    border-radius: 6px;
+    cursor: default;
+}

@@ -1,0 +1,41 @@
+.card {
+    background: #252525;
+    border: 1px solid #474747;
+    box-shadow: 0 1px 2px rgb(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+.card-body {
+    padding: 18px;
+}
+.card-inner {
+    background: #3b3b3b;
+    border-color: #626262;
+}
+
+.card-five-star {
+    background: rgb(254, 165, 56, 20%);
+    border-color: #fea538;
+    border-bottom: 4px solid #fea538;
+}
+.card-four-star {
+    background: rgb(171, 71, 188, 20%);
+    border-color: #ab47bc;
+    border-bottom: 4px solid #ab47bc;
+}
+.card-three-star {
+    background: rgb(67, 160, 71, 20%);
+    border-color: #43a047;
+    border-bottom: 4px solid #43a047;
+}
+.card-two-and-one-star {
+    background: #3b3b3b;
+    border-color: #626262;
+    border-bottom-width: 4px;
+}
+
+.card-status {
+    border-bottom-width: 4px;
+}
+.card-status.online {
+    border-bottom-color: #43a047;
+}
