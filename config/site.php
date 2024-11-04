@@ -9,12 +9,12 @@ return [
     'paypal_sandbox' => true,
 
     'route_domains' => [
-        'admin_site' => 'www.west.vextoriareborn.gleeze.com',
-        'main_site' => 'www.vextoriareborn.gleeze.com',
-        'jobs_site' => 'www.jobs.vextoriareborn.gleeze.com'
+        'admin_site' => 'west.phplaravel-1359144-5001406.cloudwaysapps.com',
+        'main_site' => 'phplaravel-1359144-5001406.cloudwaysapps.com',
+        'jobs_site' => 'jobs.phplaravel-1359144-5001406.cloudwaysapps.com'
     ],
 
-    'storage_url' => 'www.cdn.vextoriareborn.gleeze.com',
+    'storage_url' => 'cdn.phplaravel-1359144-5001406.cloudwaysapps.com',
     'official_thumbnail' => '/img/main.png',
 
     'updates_forum_topic_id' => 1,
